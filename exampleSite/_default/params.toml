@@ -1,0 +1,8 @@
+#################### default parameters ################################
+logo = "logos/icon.svg"
+logo_width = "200px"
+# OpenGraph / Twitter Card metadata
+description = "Website Description"
+author = "Author name"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+#
